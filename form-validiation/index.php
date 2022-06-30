@@ -36,11 +36,11 @@
         </div>
 
         <div class="custom-control custom-radio">
-    <input type="radio" class="custom-control-input" id="customControlValidation2" name="radio-stacked" required>
+    <input name="radio" type="radio" class="custom-control-input" id="customControlValidation2" name="radio-stacked" required>
     <label class="custom-control-label" for="customControlValidation2">Male</label>
   </div>
   <div class="custom-control custom-radio mb-3">
-    <input type="radio" class="custom-control-input" id="customControlValidation3" name="radio-stacked" required>
+    <input name="radio" type="radio" class="custom-control-input" id="customControlValidation3" name="radio-stacked" required>
     <label class="custom-control-label" for="customControlValidation3">Female</label>
     <div class="invalid-feedback">More example invalid feedback text</div>
   </div>
